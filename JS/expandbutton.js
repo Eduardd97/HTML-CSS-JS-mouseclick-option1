@@ -12,14 +12,6 @@ function toggleText(textId) {
     }
 }
 
-// function toggleText(textId) {
-//     var textElement = document.getElementById(textId);
-//     if (textElement.style.display === 'none' || textElement.style.display === '') {
-//         textElement.style.display = 'block'; // Показать текст
-//     } else {
-//         textElement.style.display = 'none'; // Скрыть текст
-//     }
-// }
 
 
 
