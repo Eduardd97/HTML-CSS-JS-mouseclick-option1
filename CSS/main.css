@@ -1,0 +1,20 @@
+.panel_for_text {
+    background-color: #d3d3d3;
+}
+.panel_for_text h3 {
+    padding: 10px;
+    background-color: #808080;
+    margin-top: 0;
+    cursor: pointer;
+}
+.text {
+    display: none;
+    padding-left: 10px;
+    max-width: 0;
+    overflow: hidden;
+    transition: max-width 1s ease-in-out;
+}
+/* .panel_for_text h3:hover + .text {
+    display: block;
+    max-width: 200px;
+} */
